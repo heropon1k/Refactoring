@@ -152,6 +152,16 @@ Commented out previous and replace with below**/
     max-width: 150px;
 }
 
+.content article{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff; 
+}
+
+/**
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -178,7 +188,9 @@ Commented out previous and replace with below**/
     background-color: #0072bb;
     color: #ffffff;
 }
+compressed to one **/
 
+/**
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -190,7 +202,13 @@ Commented out previous and replace with below**/
 .social-media-marketing img {
     max-height: 200px;
 }
+ Compressed to content img  **/
 
+.content img{
+    max-height: 200px;
+}
+
+/**
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -202,6 +220,12 @@ Commented out previous and replace with below**/
 }
 
 .social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+ compressed to content h2   **/
+
+.content h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
