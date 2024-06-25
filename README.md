@@ -1,8 +1,8 @@
-# 01 HTML, CSS, and Git: Code Refactor
+Horiseon Code Refactor
 
-## Challenges in This Course
+## Description
 
-There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
+This project aims to refactor the Horiseon website homepage. The purpose of refactoring the website is to make the code more efficient and readable. By refactoring, it allows a search engine to find the website easier without changing the display of the webstie.
 
 ### Challenge Types 
 
